@@ -1,7 +1,0 @@
-Ứng dụng hoàn toàn không yêu cầu đăng nhập tài khoản và không cần quyền truy cập nhạy cảm.
-Hướng dẫn kiểm thử ứng dụng:
-1. Mở ứng dụng "Nhật Ký Cây Xanh".
-2. Tại màn hình chính, xem danh sách các cây cảnh (hoặc lọc theo Ban công, Phòng khách, Sân thượng).
-3. Nhấn vào một cây bất kỳ để xem chi tiết đặc tính chăm sóc (Đất, Ánh sáng, Lịch tưới).
-4. Nhấn các nút ghi log nhanh: "Đã tưới 💧", "Đã bón phân 🧪", "Cắt tỉa ✂️" để thêm nhật ký.
-5. Kiểm tra danh sách nhật ký hiển thị thời gian tương ứng.
