@@ -1,0 +1,40 @@
+{
+  "version": "v-2026.09.11.1116",
+  "platform": "ios",
+  "bundlePath": "main.jsbundle",
+  "generatedAt": "2026-09-11T04:17:42.967Z",
+  "files": {
+    "assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png": {
+      "hash": "5223c8d9b0d08b82a5670fb5f71faf78",
+      "size": 913
+    },
+    "assets/node_modules/@react-navigation/elements/src/assets/back-icon.png": {
+      "hash": "7d40544b395c5949f4646f5e150fe020",
+      "size": 290
+    },
+    "assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png": {
+      "hash": "a132ecc4ba5c1517ff83c0fb321bc7fc",
+      "size": 405
+    },
+    "assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png": {
+      "hash": "0ea69b5077e7c4696db85dbcba75b0e1",
+      "size": 761
+    },
+    "assets/src/assets/header_bg_checkin.png": {
+      "hash": "fc97fa0e6e34c9bebfe0d11f130e1a9b",
+      "size": 628915
+    },
+    "assets/src/assets/header_bg_event.png": {
+      "hash": "d4cdd58d2297c22ea32a913482162c32",
+      "size": 450145
+    },
+    "assets/src/assets/header_bg_sponsor.png": {
+      "hash": "b8f37e4cc23c6f79cacc6b97c51e0e72",
+      "size": 1902733
+    },
+    "main.jsbundle": {
+      "hash": "1f09123e658dbc9da869f03e57a61d2e",
+      "size": 3648134
+    }
+  }
+}
