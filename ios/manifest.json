@@ -1,8 +1,8 @@
 {
-  "version": "v-2026.09.11.1646",
+  "version": "v-2026.09.14.0733",
   "platform": "ios",
   "bundlePath": "main.jsbundle",
-  "generatedAt": "2026-09-11T09:46:44.859Z",
+  "generatedAt": "2026-09-14T00:34:23.748Z",
   "files": {
     "assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png": {
       "hash": "5223c8d9b0d08b82a5670fb5f71faf78",
@@ -33,8 +33,8 @@
       "size": 1902733
     },
     "main.jsbundle": {
-      "hash": "bef3b4310d3ca0d4c6200cfef65d15ea",
-      "size": 3663102
+      "hash": "eb1f25f0351f4c20e89de39a04c14eff",
+      "size": 3675753
     }
   }
 }
