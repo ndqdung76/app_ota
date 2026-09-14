@@ -1,8 +1,8 @@
 {
-  "version": "v-2026.09.14.1604",
+  "version": "v-2026.09.14.2158",
   "platform": "android",
   "bundlePath": "index.android.bundle",
-  "generatedAt": "2026-09-14T09:08:49.106Z",
+  "generatedAt": "2026-09-14T14:59:33.932Z",
   "files": {
     "drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png": {
       "hash": "376d6a4c7f622917c39feb23671ef71d",
@@ -28,6 +28,22 @@
       "hash": "b8f37e4cc23c6f79cacc6b97c51e0e72",
       "size": 1902733
     },
+    "drawable-mdpi/src_assets_logo_clock.png": {
+      "hash": "cf452084833d1fe84000e94eaf853267",
+      "size": 444996
+    },
+    "drawable-mdpi/src_assets_logo_eventhub_color.png": {
+      "hash": "4bf3280ad917221f83e5aad0c0dc3df6",
+      "size": 850313
+    },
+    "drawable-mdpi/src_assets_logo_eventhub_white.png": {
+      "hash": "ab7b33780c7e8085c5a824f14bc22bc6",
+      "size": 257397
+    },
+    "drawable-mdpi/src_assets_no_image_hcn_dark_bg.png": {
+      "hash": "17316b9abd2529f152e0daa2d82cf65d",
+      "size": 277016
+    },
     "drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png": {
       "hash": "c79c3606a1cf168006ad3979763c7e0c",
       "size": 134
@@ -41,12 +57,12 @@
       "size": 207
     },
     "index.android.bundle": {
-      "hash": "7779087691d4009e308b1762a1044571",
-      "size": 4559298
+      "hash": "e2bc741a4223590fde10383d46a132bd",
+      "size": 4574839
     },
     "raw/keep.xml": {
-      "hash": "925c70a49488277eb88205d00af37bad",
-      "size": 329
+      "hash": "780495b3ec9c3fc23c1b4931e0d1dbdb",
+      "size": 485
     }
   }
 }
