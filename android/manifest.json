@@ -1,8 +1,8 @@
 {
-  "version": "v-2026.09.15.1645",
+  "version": "v-2026.09.16.0824",
   "platform": "android",
   "bundlePath": "index.android.bundle",
-  "generatedAt": "2026-09-15T09:46:18.486Z",
+  "generatedAt": "2026-09-16T01:25:47.444Z",
   "files": {
     "drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png": {
       "hash": "376d6a4c7f622917c39feb23671ef71d",
@@ -57,8 +57,8 @@
       "size": 207
     },
     "index.android.bundle": {
-      "hash": "f2bff3d94238fa3e1cf5d89b0a29ec0a",
-      "size": 4590286
+      "hash": "f6006824705842bbddf6f0512866a165",
+      "size": 4592020
     },
     "raw/keep.xml": {
       "hash": "780495b3ec9c3fc23c1b4931e0d1dbdb",
