@@ -1,8 +1,8 @@
 {
-  "version": "v-2026.09.17.1529",
+  "version": "v-2026.09.17.1544",
   "platform": "ios",
   "bundlePath": "main.jsbundle",
-  "generatedAt": "2026-09-17T08:30:19.841Z",
+  "generatedAt": "2026-09-17T08:45:05.727Z",
   "files": {
     "assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png": {
       "hash": "5223c8d9b0d08b82a5670fb5f71faf78",
@@ -32,6 +32,14 @@
       "hash": "b8f37e4cc23c6f79cacc6b97c51e0e72",
       "size": 1902733
     },
+    "assets/src/assets/huecit.png": {
+      "hash": "e9014c81ecfb96b1d619015de2a27d3d",
+      "size": 15641
+    },
+    "assets/src/assets/hues.png": {
+      "hash": "1390b3ecd0f283ec165c989688d61478",
+      "size": 12619
+    },
     "assets/src/assets/logo_clock.png": {
       "hash": "cf452084833d1fe84000e94eaf853267",
       "size": 444996
@@ -49,8 +57,8 @@
       "size": 277016
     },
     "main.jsbundle": {
-      "hash": "fc086ea7d712f05ecf301e0c7d98fadb",
-      "size": 3754291
+      "hash": "7a5c57abae2c32cd4bc3ec885657fca4",
+      "size": 3755121
     }
   }
 }
