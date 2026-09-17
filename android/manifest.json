@@ -1,8 +1,8 @@
 {
-  "version": "v-2026.09.17.1529",
+  "version": "v-2026.09.17.1544",
   "platform": "android",
   "bundlePath": "index.android.bundle",
-  "generatedAt": "2026-09-17T08:31:09.584Z",
+  "generatedAt": "2026-09-17T08:45:26.696Z",
   "files": {
     "drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png": {
       "hash": "376d6a4c7f622917c39feb23671ef71d",
@@ -27,6 +27,14 @@
     "drawable-mdpi/src_assets_header_bg_sponsor.png": {
       "hash": "b8f37e4cc23c6f79cacc6b97c51e0e72",
       "size": 1902733
+    },
+    "drawable-mdpi/src_assets_huecit.png": {
+      "hash": "e9014c81ecfb96b1d619015de2a27d3d",
+      "size": 15641
+    },
+    "drawable-mdpi/src_assets_hues.png": {
+      "hash": "1390b3ecd0f283ec165c989688d61478",
+      "size": 12619
     },
     "drawable-mdpi/src_assets_logo_clock.png": {
       "hash": "cf452084833d1fe84000e94eaf853267",
@@ -57,12 +65,12 @@
       "size": 207
     },
     "index.android.bundle": {
-      "hash": "009cb4b2f0250690489143cd298a20a7",
-      "size": 4605384
+      "hash": "37e5dfc3c0d780eabe02bef82259ccc8",
+      "size": 4606230
     },
     "raw/keep.xml": {
-      "hash": "780495b3ec9c3fc23c1b4931e0d1dbdb",
-      "size": 485
+      "hash": "1902d1c3a78b99858dd17e4a63960704",
+      "size": 539
     }
   }
 }
