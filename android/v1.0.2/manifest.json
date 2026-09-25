@@ -1,0 +1,53 @@
+{
+  "version": "v-2026.09.25.1447",
+  "targetBinaryVersion": "1.0.2",
+  "platform": "android",
+  "bundlePath": "index.android.bundle",
+  "generatedAt": "2026-09-25T07:48:21.466Z",
+  "files": {
+    "drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png": {
+      "hash": "376d6a4c7f622917c39feb23671ef71d",
+      "size": 134
+    },
+    "drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png": {
+      "hash": "778ffc9fe8773a878e9c30a6304784de",
+      "size": 100
+    },
+    "drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png": {
+      "hash": "5223c8d9b0d08b82a5670fb5f71faf78",
+      "size": 913
+    },
+    "drawable-mdpi/src_hososohoa_assets_images_newlogo.png": {
+      "hash": "e9efebb5f3be13b4b92e0c830da81170",
+      "size": 23763
+    },
+    "drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png": {
+      "hash": "c79c3606a1cf168006ad3979763c7e0c",
+      "size": 134
+    },
+    "drawable-xhdpi/src_hososohoa_assets_images_newlogo.png": {
+      "hash": "ba64473e44345608b2312725554b8060",
+      "size": 70251
+    },
+    "drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png": {
+      "hash": "02bc1fa7c0313217bde2d65ccbff40c9",
+      "size": 167
+    },
+    "drawable-xxhdpi/src_hososohoa_assets_images_newlogo.png": {
+      "hash": "afe9412fcaa1b48264e3697c7e09f31b",
+      "size": 137568
+    },
+    "drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png": {
+      "hash": "35ba0eaec5a4f5ed12ca16fabeae451d",
+      "size": 207
+    },
+    "index.android.bundle": {
+      "hash": "6ca078c3c6d14984dadd69379be09fa3",
+      "size": 2919209
+    },
+    "raw/keep.xml": {
+      "hash": "732c9f3f420d39ff0ea316ee9e3864f1",
+      "size": 260
+    }
+  }
+}
