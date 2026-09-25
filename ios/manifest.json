@@ -1,0 +1,65 @@
+{
+  "version": "v-2026.09.25.1540",
+  "targetBinaryVersion": "1.0",
+  "platform": "ios",
+  "bundlePath": "main.jsbundle",
+  "generatedAt": "2026-09-25T08:40:43.321Z",
+  "files": {
+    "assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png": {
+      "hash": "5223c8d9b0d08b82a5670fb5f71faf78",
+      "size": 913
+    },
+    "assets/node_modules/@react-navigation/elements/src/assets/back-icon.png": {
+      "hash": "7d40544b395c5949f4646f5e150fe020",
+      "size": 290
+    },
+    "assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png": {
+      "hash": "a132ecc4ba5c1517ff83c0fb321bc7fc",
+      "size": 405
+    },
+    "assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png": {
+      "hash": "0ea69b5077e7c4696db85dbcba75b0e1",
+      "size": 761
+    },
+    "assets/src/assets/header_bg_checkin.png": {
+      "hash": "fc97fa0e6e34c9bebfe0d11f130e1a9b",
+      "size": 628915
+    },
+    "assets/src/assets/header_bg_event.png": {
+      "hash": "d4cdd58d2297c22ea32a913482162c32",
+      "size": 450145
+    },
+    "assets/src/assets/header_bg_sponsor.png": {
+      "hash": "b8f37e4cc23c6f79cacc6b97c51e0e72",
+      "size": 1902733
+    },
+    "assets/src/assets/huecit.png": {
+      "hash": "e9014c81ecfb96b1d619015de2a27d3d",
+      "size": 15641
+    },
+    "assets/src/assets/hues.png": {
+      "hash": "1390b3ecd0f283ec165c989688d61478",
+      "size": 12619
+    },
+    "assets/src/assets/logo_clock.png": {
+      "hash": "cf452084833d1fe84000e94eaf853267",
+      "size": 444996
+    },
+    "assets/src/assets/logo_eventhub_color.png": {
+      "hash": "4bf3280ad917221f83e5aad0c0dc3df6",
+      "size": 850313
+    },
+    "assets/src/assets/logo_eventhub_white.png": {
+      "hash": "ab7b33780c7e8085c5a824f14bc22bc6",
+      "size": 257397
+    },
+    "assets/src/assets/no_image_hcn_dark_bg.png": {
+      "hash": "17316b9abd2529f152e0daa2d82cf65d",
+      "size": 277016
+    },
+    "main.jsbundle": {
+      "hash": "d0e59f0bec0cd4fb8167be487def1526",
+      "size": 4330645
+    }
+  }
+}
